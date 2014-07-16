@@ -17,7 +17,7 @@ public class Main {
 		// use specified word probability distribution
 		/*
 		 * Detector dt=new Detector();
-		 * dt.computeProbDist("/home/limeng/downloads/word_count.txt");
+		 * dt.computeProbDist("/home/me/downloads/word_count.txt");
 		 * System.out.println(dt.segment("dhelloworldd"));
 		 */
 
