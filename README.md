@@ -20,7 +20,7 @@ And some revision has been added such as the roughly selected frequent Chinese p
 
 ```java
 		 Detector dt=new Detector();
-		 dt.computeProbDist("/home/limeng/downloads/word_count.txt");
+		 dt.computeProbDist("/home/me/downloads/word_count.txt");
 		 System.out.println(dt.segment("dhelloworldd"));
 ```
 
